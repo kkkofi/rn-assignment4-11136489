@@ -1,14 +1,7 @@
-#
+# rn-assignment4-11136489
+# Jacob Kofi Ababio Agyemang-Prempeh
 
-# SCREENSHOT OF APPLICATION
-
-
-#
-
-
-### I made changes to the background pattern of each card in featured jobs.
-
-<img src="assets\screenshots\updated.jpg" width="" height="450">
+### I made some  changes to the background pattern of each card in featured jobs.
 
 # COMPONENTS USAGE
 
@@ -48,15 +41,8 @@ _The Popular Jobs component is used to display the Popular jobs cards_
 
 # SCREENSHOTS
 
-<img src="assets\screenshots\screenshot1.jpg" width="" height="450"> **1**
-<img src="assets\screenshots\screenshot2.jpg" width="" height="450"> **2**
-<img src="assets\screenshots\screenshot3.jpg" width="" height="450"> **3**
-<img src="assets\screenshots\screenshot4.jpg" width="" height="450"> **4**
-<img src="assets\screenshots\screenshot5.jpg" width="" height="450"> **5**
-<img src="assets\screenshots\screenshot6.jpg" width="" height="450"> **6**
-<img src="assets\screenshots\screenshot7.jpg" width="" height="450"> **7**
-<img src="assets\screenshots\screenshot8.jpg" width="" height="450"> **8**
-<img src="assets\screenshots\screenshot9.jpg" width="" height="450"> **9**
-<img src="assets\screenshots\screenshot10.jpg" width="" height="450"> **10**
-<img src="assets\screenshots\screenshot11.jpg" width="" height="450"> **11**
-<img src="assets\screenshots\screenshot12.jpg" width="" height="450"> **12**
+
+[screenshot1](rn-assignment4-11136489\assets\rn pic1.jpg)
+[screenshot2](rn-assignment4-11136489\assets\rn4 pic2.jpg)
+[screenshot3](rn-assignment4-11136489\assets\rn4 pic3.jpg)
+[screenshot4](rn-assignment4-11136489\assets\rn4 pic4.jpg)
